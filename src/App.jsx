@@ -366,6 +366,7 @@ const CardCarousel3D = () => {
             overflow: 'hidden',
             zIndex: 9999,
             boxShadow: '0 10px 30px rgba(0,0,0,0.6)',
+            opacity: 0
           }}
         >
           <video
